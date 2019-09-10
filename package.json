@@ -1,0 +1,19 @@
+{
+  "name": "frases-do-futebol",
+  "version": "1.0.0",
+  "description": "Aplicativo que gera frases do mundo da bola!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoramos182/Frases-do-Futebol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoramos182/Frases-do-Futebol/issues"
+  },
+  "homepage": "https://github.com/leoramos182/Frases-do-Futebol#readme"
+}
